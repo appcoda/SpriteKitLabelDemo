@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Label
 //
-//  Created by Simon Ng on 9/2/2017.
+//  Created by Cosmin Pupaza on 9/2/2017.
 //  Copyright © 2017 AppCoda. All rights reserved.
 //
 
